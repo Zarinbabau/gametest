@@ -4,4 +4,5 @@ texto normal
 
 -tópicos
 
-{link}
+[link(https://narutodle.net/jutsu)]
+
